@@ -1,0 +1,2 @@
+accuracy,roc_auc,n_train,n_test
+0.7787,0.86233136,40000,10000
