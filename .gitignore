@@ -1,0 +1,28 @@
+# Data
+*.csv
+*.zip
+data/
+datasets/
+
+# Models / outputs
+models/
+results/
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+
